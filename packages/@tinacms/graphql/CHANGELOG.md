@@ -1,5 +1,12 @@
 # tina-graphql
 
+## 1.4.13
+
+### Patch Changes
+
+- ca74add40: Fix issue where an empty reference would cause an error in a list query
+- 6fefa56b0: Feat: Update database query to support filtering on list fields
+
 ## 1.4.12
 
 ### Patch Changes
