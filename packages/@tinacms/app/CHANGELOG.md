@@ -1,5 +1,15 @@
 # @tinacms/app
 
+## 1.2.13
+
+### Patch Changes
+
+- 7f95c1ce5: Reorganize the way fields are presented on the form to allow for deep-linking
+- Updated dependencies [b3d98d159]
+- Updated dependencies [7f95c1ce5]
+  - @tinacms/toolkit@1.7.2
+  - tinacms@1.5.6
+
 ## 1.2.12
 
 ### Patch Changes

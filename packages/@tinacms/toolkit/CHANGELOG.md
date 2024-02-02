@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.7.2
+
+### Patch Changes
+
+- b3d98d159: Add array check for value.children
+- 7f95c1ce5: Reorganize the way fields are presented on the form to allow for deep-linking
+
 ## 1.7.1
 
 ### Patch Changes

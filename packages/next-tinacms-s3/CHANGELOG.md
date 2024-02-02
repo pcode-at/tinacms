@@ -1,5 +1,11 @@
 # next-tinacms-s3
 
+## 1.3.1
+
+### Patch Changes
+
+- 400a7fdeb: Add the `mediaRoot` option to the s3 media store
+
 ## 1.3.0
 
 ### Minor Changes
